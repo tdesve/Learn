@@ -1,0 +1,4 @@
+# Ce repository contient les information pour reconfigurer le Pi
+
+On positionne l'adresse IP fixe en modifiant le Fichier /etc/network/interfaces
+Les deux fichiers le modifier et l'original (.sav) sont sauvegardés
